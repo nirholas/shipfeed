@@ -260,3 +260,30 @@ Apache-2.0
 ---
 
 Part of [three.ws](https://three.ws), the open-source platform for 3D AI agents. This repository is exported from the [monorepo](https://github.com/nirholas/three.ws/tree/main/packages/shipfeed), which is the source of truth: open issues here, and send larger changes there.
+
+<!-- three.ws:growth -->
+## Support the project
+
+If shipfeed saves you time, **[star it on GitHub](https://github.com/nirholas/shipfeed)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=shipfeed%3A%20Turn%20a%20repo's%20raw%20commit%20history%20into%20a%20release%20feed%20humans%20actually%20read%3A%20conventional-commit&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fshipfeed) · [Share on Bluesky](https://bsky.app/intent/compose?text=shipfeed%3A%20Turn%20a%20repo's%20raw%20commit%20history%20into%20a%20release%20feed%20humans%20actually%20read%3A%20conventional-commit%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fshipfeed) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fshipfeed) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fshipfeed&t=shipfeed%3A%20Turn%20a%20repo's%20raw%20commit%20history%20into%20a%20release%20feed%20humans%20actually%20read%3A%20conventional-commit) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fshipfeed&title=shipfeed%3A%20Turn%20a%20repo's%20raw%20commit%20history%20into%20a%20release%20feed%20humans%20actually%20read%3A%20conventional-commit)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/shipfeed` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/shipfeed/issues) or [start a discussion](https://github.com/nirholas/shipfeed/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/shipfeed)](https://github.com/nirholas/shipfeed/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/shipfeed&type=Date)](https://www.star-history.com/#nirholas/shipfeed&Date)
+
+<!-- /three.ws:growth -->

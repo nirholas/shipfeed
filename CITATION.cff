@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/shipfeed"
+abstract: "Turn a repo's raw commit history into a release feed humans actually read: conventional-commit parsing, audience classification, and changelog-to-commit provenance with no extra metadata."
+type: software
+authors:
+  - name: three.ws contributors
+repository-code: "https://github.com/nirholas/shipfeed"
+url: "https://nirholas.github.io/shipfeed/"
+license: Apache-2.0
+version: 0.1.0

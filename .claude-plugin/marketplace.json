@@ -1,13 +1,20 @@
 {
   "name": "shipfeed",
-  "owner": {"name": "nirholas"},
+  "owner": {
+    "name": "nirholas"
+  },
   "description": "Release-feed tooling that links commits to the changelog entries they shipped in.",
   "plugins": [
     {
       "name": "shipfeed",
-      "source": "./",
+      "source": "./plugins/shipfeed",
       "description": "Build a readable release feed from commit history, explain commit classification and report unannounced work.",
-      "tags": ["changelog", "release-notes", "git"]
+      "category": "development",
+      "tags": [
+        "changelog",
+        "release-notes",
+        "git"
+      ]
     }
   ]
 }

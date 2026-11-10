@@ -1,0 +1,10 @@
+{
+  "name": "shipfeed",
+  "version": "0.1.0",
+  "description": "Turn a repo's commit history into a readable release feed: conventional-commit parsing, audience classification and changelog-to-commit linking.",
+  "author": {"name": "nirholas"},
+  "repository": "https://github.com/nirholas/shipfeed",
+  "license": "Apache-2.0",
+  "keywords": ["changelog", "release-notes", "conventional-commits", "git", "provenance"],
+  "homepage": "https://nirholas.github.io/shipfeed/"
+}
